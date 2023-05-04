@@ -4,8 +4,8 @@
     margin: 0;
 }
 *::selection {
-    color: #5CE1E6;
     background: black;
+    color: red;
 }
 html {
     scroll-behavior: smooth;
