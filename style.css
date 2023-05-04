@@ -5,10 +5,7 @@
 }
 *::selection {
     background: black;
-    background:-webkit-linear-gradient(bottom, #5CE1E6, #5271FF);
-    background-clip:text;
-    -webkit-background-clip:text;
-    color:transparent;
+    color: #5CE1E6;
 }
 html {
     scroll-behavior: smooth;
