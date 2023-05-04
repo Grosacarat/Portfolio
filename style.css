@@ -5,7 +5,7 @@
 }
 *::selection {
     background: black;
-    color: blue;
+    color: purple;
 }
 html {
     scroll-behavior: smooth;
