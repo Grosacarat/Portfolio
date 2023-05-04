@@ -4,8 +4,8 @@
     margin: 0;
 }
 *::selection {
-    background: white;
-    color: black;
+    background: -webkit-linear-gradient(bottom, #5CE1E6, #5271FF);
+    color: white;
 }
 html {
     scroll-behavior: smooth;
