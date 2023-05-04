@@ -4,7 +4,7 @@
     margin: 0;
 }
 *::selection {
-    background: black;
+    background: red;
     color: white;
 }
 html {
