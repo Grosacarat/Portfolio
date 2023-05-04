@@ -5,7 +5,7 @@
 }
 *::selection {
     background: black;
-    color: #5CE1E6;
+    color: linear-gradient(bottom, #5CE1E6, #5271FF);
 }
 html {
     scroll-behavior: smooth;
